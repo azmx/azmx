@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=70&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&height=100&lines=⚡+AZAM+⚡" alt="Azam" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=70&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&height=100&lines=⚡+JOMS+⚡" alt="Azam" />
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&color=00D9FF&center=true&vCenter=true&width=600&lines=Mobile+Systems+Engineer;Flutter+Specialist;Clean+Architecture+Expert" alt="Title" />
 
